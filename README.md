@@ -5,15 +5,21 @@
 - ⚙️ I'm currently learning HTML, CSS, JS, Python, Assembly Language, and Scilab
 
 ## 🌐 Socials:
-[![Instagram](https://shields.io)](https://www.instagram.com/pranay_oberoi07/) [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/pranay-oberoi-058747312/) [![LeetCode](https://shields.io)](https://leetcode.com/u/Pranay_Oberoi/)
+- 📸 **Instagram:** [pranay_oberoi07](https://instagram.com)
+- 💼 **LinkedIn:** [Pranay Oberoi](https://linkedin.com)
+- 💡 **LeetCode:** [Profile](https://leetcode.com)
 
 ## 💻 Tech Stack:
-![Python](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![Scikit-Learn](https://shields.io) ![NumPy](https://shields.io) ![Markdown](https://shields.io)
+- 🐍 **Python** 
+- 🌐 **HTML5 & CSS3**
+- 🟨 **JavaScript**
+- 🤖 **Scikit-Learn & NumPy**
+- 📝 **Markdown**
+- ⚙️ **Assembly Language & Scilab**
 
 ---
 
 ## 📊 GitHub Stats:
-![Pranay's GitHub stats](https://vercel.app)
-
-## 🏆 GitHub Trophies:
-![Pranay's Trophies](https://vercel.app)
+_Stats and Trophies are temporarily loading in the background via external networks. You can view your dynamic dashboard tracking links directly here:_
+- 📈 [View Live Activity Rank & Performance Metrics](https://vercel.app)
+- 🏆 [View Live Dynamic Gaming Milestone Trophies](https://vercel.app)
