@@ -139,18 +139,6 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranayoberoi006&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Pranay Oberoi GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranayoberoi006&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### ⚡ Operating Principle
 > *"Carpe Diem — seize every complex problem as an engineering challenge to build software that stands out."*
 
